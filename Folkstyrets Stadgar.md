@@ -2,7 +2,7 @@
 
 Folkstyrets stadgar är uppdelade i tre stycken kapitel.
 
-``` Kommentarer till förarbetet formateras som kommentarer. ```
+``` Kommentarer till förarbetet formateras som denna text. ```
 
 #### 1. Grundstadgar
 Det första kapitlet innehåller Folkstyrets grundstadgar. Folkstyrets grundstadgar kan inte ändras. Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende.
@@ -15,9 +15,13 @@ Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga f�
 
 ## Definitioner
 - Folkstyret är ett demokratiskt parti. Folkstyret är en direkt översättning av det grekiska ordet demokrati. 
+
+``` Av praktiska skäl kan, i undantagsfall, även definitionen "politiskt parti" accepteras eftersom övrigt svenskt regelverk är anpassat av och för politiska partier. Folkstyret är till sin funktion mer en aggregerande institution än en integrerande institution.  ```
 - Den som är aktiv i Folkstyret och representerar Folkstyret i en beslutande församling, är bunden av dessa stadgar och kallas för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller fasta stadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte ur sin förening.
 - Demokrati förstås som en process som drivs av deltagande, en legitimeringsprincip, och består av politisk jämlikhet, likhet inför lagen och individuella rättigheter.
-- Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. ``` Folkstyret har alltså en vidare och mer inkluderande definition av demos ```
+- Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. 
+
+``` Det här innebär att Folkstyret har en vidare och mer inkluderande definition av demos än Svensk lag. ```
 ## 1 kap. Grundstadgar
 
 ## 2 kap. Fasta stadgar
