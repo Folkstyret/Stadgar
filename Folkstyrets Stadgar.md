@@ -32,9 +32,11 @@ Den som är aktiv i Folkstyret och representerar demos i en beslutande församli
 ``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna.```
 #### 3 § Demokrati
 Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella rättigheter.
-- Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. 
 
-``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär att Folkstyret har en vidare och mer inkluderande definition av demos än Svensk lag. ```
+#### 3 § Demos
+Demos består av de som är underställda de politiska besluten och som kan göras ansvariga för sina handlingar. 
+
+``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär för tillfället att Folkstyret har en vidare och mer inkluderande definition av demos än nuvarande svensk lag. ```
 
 ## 2 kap. Fasta stadgar
 
