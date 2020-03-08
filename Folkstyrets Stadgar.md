@@ -9,13 +9,13 @@ Det första kapitlet innehåller Folkstyrets grundstadgar. De reglerar hur Folks
 
 ``` Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende. Syftet med grundstadgarna är att väljare ska kunna vara säkra på att Folkstyret alltid kommer att representera den statistiskt normala åsikten i varja fråga på bästa sätt och bädda för deras långsiktiga engagemang i Folkstyret och demokratin. Grundstadgarna är teknikneutrala och reflekterar demokratins kärnvärden. ``` 
 
-#### 2. Fasta stadgar
-Det andra kaptilet innehåller de fasta stadgarna. De kan vara tillägg till grundstadgarna men de kan inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras när som helst men kan inte träda i kraft förrän efter ett allmänt val. 
+#### 2. Funktionsstadgar
+Det andra kaptilet innehåller funktionsstadgarna. De kan vara tillägg till grundstadgarna men de kan inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras när som helst men kan inte träda i kraft förrän efter ett allmänt val. 
 
-``` Det är alltså i praktiken väljarna som i allmänna val godkänner de fasta stadgarna. Syftet med de fasta stadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande eller innevarande mandatperioden. De fasta stadgarna gör det möjligt att utveckla Folkstyret i takt med tiden, med de nya tekniska möjligheter, kunskaper och yttre föutsättningar som tillkommer. ```
+``` Det är alltså i praktiken väljarna som i allmänna val godkänner funktionsstadgarna. Syftet med funktionsstadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande eller innevarande mandatperioden. Funktionsstadgarna gör det möjligt att utveckla Folkstyret i takt med tiden, med de nya tekniska möjligheter, kunskaper och yttre föutsättningar som tillkommer. ```
 
 #### 3. Föreningsstadgar
-Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga föreningsverksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av de fasta stadgarna. 
+Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga föreningsverksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av funktionsstadgarna. 
 
 ``` Föreningsstadgarna kan ändras för att anpassas till Folkstyretföreningens storlek, territoriella status eller inriktning. ```
 
@@ -27,7 +27,7 @@ Folkstyret är ett demokratiskt parti. Folkstyret är en ungefärlig översättn
 
 ``` Av praktiska skäl kan, i undantagsfall, även definitionen "politiskt parti" accepteras eftersom övrigt svenskt regelverk är anpassat av och för politiska partier. Folkstyret är dock till sin funktion mer en aggregerande institution än en integrerande institution och representerar alltid allmänintresset.  ```
 #### 2 § Medborgarombud
-Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller fasta stadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte automatiskt ur sin förening.
+Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller funktionsstadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte automatiskt ur sin förening.
 
 ``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna.```
 #### 3 § Demokrati
@@ -38,9 +38,35 @@ Demos består av de som är underställda de politiska besluten och som kan gör
 
 ``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär för tillfället att Folkstyret har en vidare och mer inkluderande definition av demos än nuvarande svensk lag. ```
 
-## 2 kap. Fasta stadgar
+#### 4 § Voteringar
+Folkstyret tar reda på den statiskt normala åsikten om varje politiskt förslag, den de flesta kan ställa sig bakom, och voterar sedan så i den beslutande församlingen. Folkstyret representerar på så sätt allmänintresset. Undantag från detta är förslag som man på förhand kan säga kommer att beröras av ett autoveto. Underlaget till Folkstyrets beslut ska alltid, anonymiserat, publiceras så att alla kan bedöma dess legitimitet och kunna utgöra en del av den politiska självkännedomen och fria opinionsbildningen.
+
+#### 5 § Autoveto
+Folkstyret har autoveton som innebär att Folkstyret automatiskt avslår förslag som inte godkänns av lagrådet. Det innebär att förslag som är i strid med grundlagen, är diskriminerande, begränsar våra individuella friheter eller inte är kongruent med annan lagstiftning inte kan genomföras med Folkstyrets hjälp. Folkstyret kan alltså inte användas för att rösta bort demokratin. Ett annat autoveto triggas om ett förslag eller en omröstning har manipulerats så att Folkstyret inte har möjlighet att ta fram ett legitimt underlag till omröstningen. Till exempel om tiden som ges är för kort eller om någon försöker tvinga igenom ett beslut på ett för långt avstånd från medborgaren (att subsidiaritetsprincipen inte följs).
+
+``` Automatnej har bytt namn till autoveto. Automatnej har givit några intrycket att det lätt går att manipulera utfallet i en omröstning genom att lägga in en negation i formuleringen av frågan och därmed få stöd av ett automatnej. Det kan man inte. Alla förslag som läggs för beslut i en beslutande församling utmanar det rådande. Eftersom uttrycket tydligen är förvirrande så byter det namn. Det andra autovetot behöver ändras för det är för "löst" formulerat. Kanske det innebär att fler autoveton än två behövs? ```
+
+#### 6 § Folkmotioner
+Folkstyret frågar slumpvis utvalda personer i de demos där Folkstyret är invalt om det är något de vill lyfta upp på den politiska dagordningen eller om de vill stödja något förslag någon annan har lagt i samma demos. Dessa förslag sorteras i popularitetsordning och omvandlas av Folkstyrets invalda medborgarombud till Folkmotioner. Undantag från detta är förslag som man på förhand kan säga kommer att beröras av ett autoveto. Medlemmar i demos kan genom Folkmotioner föreslå funktionstadgeändringar.
+
+#### 8 § Grundstadgeändring
+Grundstadgar kan inte ändras. 
+
+## 2 kap. Funktionsstadgar
+
+#### 1 § Voteringar - Genomförande
+När Folkstyret är inröstat av väljarna i en beslutande församling, så skickar Folkstyret varje förslag vidare till ett tillräckligt antal, av demos, slumpvis utvalda personer. De får information om förslaget och svarar sedan vad de tycker om det på en femgradig skala. Vad som är tillräckligt antal beror på storleken på demos.
+
+``` I ett beslut på nationell, regional eller kommunal nivå är ett tillräckligt antal ungefär 1000-1500 personer. Om inte ett ja eller nej i en fråga kan utkristalliseras (ett statistiskt säkerställt ja eller nej utom felmarginalen) med det underlaget kommer det ändå inte hjälpa att fråga fler. I ett kommun- eller stadsdelsdelsärende där befolkningsunderlaget är litet och en totalundersökning inte är befogad är det bättre att gå ut med en enkät och fråga "folk" som kan styrka att de tillhör demos vad de tycker om förslaget. ```
+
+#### 2 § Folkmotioner - Genomförande
+Varje gång en person i befolkningen får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också föreslås av vem som helst som tillhör aktuellt demos eller ett medborgarombud.
+
+#### 8 §	Funktionsstadgeändring
+Funktionsstadgeändringar kan göras genom folkmotioner. 
 
 ## 3 kap. Föreningsstadgar
+``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. ```
 ### Allmänna bestämmelser
 #### 1 §	Ändamål
 Folkstyretföreningen har som ändamål att bedriva ideell verksamhet i form av ett demokratiskt parti. Folkstyretföreningen vänder sig till människor i alla åldrar, oavsett bakgrund och arbetar aktivt för att motverka all form av diskriminering.
@@ -64,11 +90,11 @@ För upplösning av föreningen krävs beslut på två på varandra följande m�
 ### Föreningens medlemmar
 #### 10 §	Medlemskap
 Förening är öppen för alla fysiska personer. Medlem skall följa föreningens stadgar och föreskrifter. När medlemsavgiften är erlagd är personen medlem och förs in i medlemsförteckningen. Styrelsen har rätt att utse person till hedersmedlem. Styrelsen ska godkänna alla medlemskap.
-#### 11 §	Utträde
+#### 11 § Utträde
 Medlem som vill utträda ur föreningen, skall skriftligen anmäla detta till styrelsen och anses därmed omedelbart ha lämnat föreningen. Medlem som inte har betalat medlemsavgift senast den 31 december får anses ha begärt sitt utträde ur föreningen. Medlemskapet upphör i sådant fall genom att personen avförs från medlemsförteckningen.
-#### 12 §	Uteslutning
+#### 12 § Uteslutning
 Medlem får inte uteslutas ur föreningen av annan anledning än att denne har försummat att betala av föreningen beslutade avgifter, motarbetat föreningens verksamhet eller ändamål, eller uppenbarligen skadat föreningens intressen. Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts. I beslutet skall skälen härför redovisas samt anges vad medlemmen skall iaktta för överklagande. Beslutet skall inom tre dagar från dagen för beslutet skriftligen meddelas den berörde.
-#### 13 §	Medlems rättigheter och skyldigheter 
+#### 13 § Medlems rättigheter och skyldigheter 
 Medlem
 -	har rätt att delta i sammankomster som anordnas för medlemmarna
 - har rätt till information om föreningens angelägenheter
@@ -77,15 +103,15 @@ Medlem
 -	skall betala medlemsavgift samt eventuellt övriga avgifter som beslutats av föreningen
 -	godkänner genom sitt medlemskap att föreningen får behandla personuppgifter i syfte att bedriva ändamålsenlig verksamhet i enlighet med vid var tid gällande föreningsstadgar och i enlighet med eventuella övriga villkor för behandling av personuppgifter som beslutats av föreningen
 ### Årsmöte och extra årsmöte
-#### 14 §	Tidpunkt, kallelse
+#### 14 § Tidpunkt, kallelse
 Årsmötet, som är föreningens högsta beslutande organ, hålls före utgången av mars månad på tid och plats som styrelsen bestämmer. Kallelse till årsmötet och förslag till föredragningslista skall av styrelsen senast tre veckor före mötet tillställas medlemmarna via mail, i föreningens facebookgrupp och på hemsidan. Har förslag väckts om stadgeändring, nedläggning eller sammanslagning av föreningen med annan förening eller annan fråga av väsentlig betydelse för föreningen eller dess medlemmar skall det anges i kallelsen. Verksamhets- och förvaltningsberättelser, revisorernas berättelser, verksamhetsplan med budget samt styrelsens förslag och inkomna motioner med styrelsens yttrande skall finnas tillgängliga för medlemmarna senast en vecka före årsmötet. I kallelsen skall anges var dessa handlingar finns tillgängliga.
-#### 15 §	Förslag till motioner att behandlas av årsmöte
+#### 15 § Förslag till motioner att behandlas av årsmöte
 Såväl medlem som styrelsen får avge förslag till fasta stadgar och föreningsstadgar att behandlas av årsmöte. Förslag från medlem skall vara styrelsen tillhanda senast fyra veckor före årsmötet. Styrelsen skall till årsmötet avge skriftligt yttrande över förslaget.
-#### 16 §	Rösträtt samt yttrande- och förslagsrätt 
+#### 16 § Rösträtt samt yttrande- och förslagsrätt 
 Medlem som har betalt medlemsavgiften senast 30 dagar före mötet och under mötesåret fyller lägst 15 år har rösträtt på möte. Rösträtten är personlig och får inte utövas genom ombud. Medlem som inte har rösträtt har yttrande- och förslagsrätt på mötet.
-#### 17 §	Beslutsförhet
+#### 17 § Beslutsförhet
 Mötet är beslutsmässigt med det antal röstberättigade medlemmar som är närvarande på mötet.
-#### 18 §	Beslut och omröstning
+#### 18 § Beslut och omröstning
 Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering).
 Med undantag för de i 8 § och 9 § nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ. Val avgörs genom relativ majoritet. Med relativ majoritet menas att den (de) som erhållit högsta antalet röster är vald (valda) oberoende av hur dessa röster förhåller sig till antalet avgivna röster. För beslut i andra frågor än val krävs absolut majoritet, vilket innebär mer än hälften av antalet avgivna röster. Omröstning sker öppet. Om röstberättigad medlem begär det skall dock val ske slutet. Vid omröstning som inte avser val gäller vid lika röstetal det förslag som biträds av ordföranden vid mötet, om ordföranden är röstberättigad. Är ordförande inte röstberättigad avgör lotten. Vid val skall i händelse av lika röstetal lotten avgöra. Beslut bekräftas med klubbslag.
 #### 19 §	Valbarhet
