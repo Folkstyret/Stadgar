@@ -21,14 +21,17 @@ Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga f�
 
 ## 1 kap. Grundstadgar
 
-#### 1 § Definitioner
-- Folkstyret är ett demokratiskt parti. Folkstyret är en ungefärlig översättning av det grekiska ordet δημοκρατικός (*dimokratikós*). 
+### Definitioner
+#### 1 § Folkstyret
+Folkstyret är ett demokratiskt parti. Folkstyret är en ungefärlig översättning av det grekiska ordet δημοκρατικός (*dimokratikós*). 
 
 ``` Av praktiska skäl kan, i undantagsfall, även definitionen "politiskt parti" accepteras eftersom övrigt svenskt regelverk är anpassat av och för politiska partier. Folkstyret är dock till sin funktion mer en aggregerande institution än en integrerande institution och representerar alltid allmänintresset.  ```
-- Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller fasta stadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte automatiskt ur sin förening.
+#### 2 § Medborgarombud
+Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller fasta stadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte automatiskt ur sin förening.
 
 ``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna.```
-- Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella rättigheter.
+#### 3 § Demokrati
+Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella rättigheter.
 - Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. 
 
 ``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär att Folkstyret har en vidare och mer inkluderande definition av demos än Svensk lag. ```
