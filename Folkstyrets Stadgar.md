@@ -1,26 +1,26 @@
 # Folkstyrets stadgar
 
-Folkstyrets stadgar är uppdelade i tre stycken sektioner. 
+Folkstyrets stadgar är uppdelade i tre stycken kapitel. 
 
 #### 1. Grundstadgar
-Den första sektionen är Folkstyrets grundstadgar. Folkstyrets grundstadgar kan inte ändras. Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende.
+Det första kapitlet innehåller Folkstyrets grundstadgar. Folkstyrets grundstadgar kan inte ändras. Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende.
 
 #### 2. Fasta stadgar
-Den andra sektionen är de fasta stadgarna. De kan vara tillägg till grundstadgarna men inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras när som helst men kan inte träda i kraft förrän efter ett allmänt val. Det är alltså väljarna som i allmänna val godkännar de fasta stadgarna.
+Det andra kaptilet innehåller de fasta stadgarna. De kan vara tillägg till grundstadgarna men inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras när som helst men kan inte träda i kraft förrän efter ett allmänt val. Det är alltså väljarna som i allmänna val godkännar de fasta stadgarna.
 
 #### 3. Föreningsstadgar
-Den tredje sektionen innehåller helt vanliga stadgar som styr upp den vanliga verksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av de fasta stadgarna. 
+Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga föreningsverksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av de fasta stadgarna. 
 
 ## Definitioner
 - Folkstyret är ett demokratiskt parti. Folkstyret är en direkt översättning av det grekiska ordet demokrati. 
 - Den som är aktiv i Folkstyret och representerar Folkstyret i en beslutande församling, är bunden av dessa stadgar och kallas för medborgarombud. Medborgarombud kan fritt kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller fasta stadgar, mister automatiskt sin rätt att representera Folkstyret men utesluts inte ur sin förening.
 - Demokrati förstås som en process som drivs av deltagande, en legitimeringsprincip, och består av politisk jämlikhet, likhet inför lagen och individuella rättigheter.
-- Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla.
-## Sektion 1 - Grundstadgar
+- Demos består av de som är underställda de politiska besluten och som kan ansvara för sina handlingar. I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Folkstyret har alltså en vidare och mer inkluderande definition av demos 
+## 1 kap. Grundstadgar
 
-## Sektion 2 - Fasta stadgar
+## 2 kap. Fasta stadgar
 
-## Sektion 3 - Föreningsstadgar
+## 3 kap. Föreningsstadgar
 ### Allmänna bestämmelser
 #### 1 §	Ändamål
 Folkstyretföreningen har som ändamål att bedriva ideell verksamhet i form av ett demokratiskt parti. Folkstyretföreningen vänder sig till människor i alla åldrar, oavsett bakgrund och arbetar aktivt för att motverka all form av diskriminering.
