@@ -21,6 +21,10 @@ Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga f�
 
 ``` Föreningsstadgarna kan ändras för att anpassas till Folkstyretföreningens storlek, territoriella status eller inriktning. ```
 
+##### 4. Det enda vallöftet
+**_Folkstyret följer stadgarna._**
+Folkstyret utvecklar inte någon egen politik utan är ett verktyg för demos att styra över sig själv. Vallöften är vanligen till för att försäkra väljarna om att man efter valet tänker agera på ett visst sätt i vissa på förhand kända frågor. Eftersom varken väljare eller partier rimligtvis kan känna till vilka frågor som kan dyka upp på agendan under en hel mandatperiod, och Folkstyret är ett demokratiskt verktyg med vilket demos själv kan kanalisera sin politiska makt är just garantin om denna möjlighet och funktion själva vallöftet.
+
 ## 1 kap. Grundstadgar
 
 ### Definitioner
@@ -58,6 +62,9 @@ Folkstyret frågar slumpvis utvalda personer i de demos där Folkstyret är inva
 #### 8 § Grundstadgeändring
 Grundstadgar kan inte ändras. 
 
+#### 9 § Grundstadgebrott
+Grundstadgar kan inte brytas mot. De är en del av det enda vallöftet.
+
 ## 2 kap. Funktionsstadgar
 
 #### 1 § Voteringar - Genomförande
@@ -68,10 +75,13 @@ När Folkstyret är inröstat av väljarna i en beslutande församling, så skic
 #### 2 § Folkmotioner - Genomförande
 Varje gång en person i befolkningen får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också läggas på Folkstyrets websida där man också kan se vilka folkmotioner som inkommit hittills och till vilka beslutande församlingar dessa kommer att läggas. Vartefter folkmotionerna utarbetas kan de röstas upp, ner, diskuteras och flaggas i de delar där ett autoveto kan utlösas. Förslag som är resultat av deliberativa övningar presenteras i samma system.
 
-#### 8 §	Funktionsstadgeändring
+#### 8 § Funktionsstadgeändring
 Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om funktionsstadgeändringar fattas genom att demos tillfrågas på samma sätt som inför en votering. 
 
 ``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte med i dessa beslut. ```
+
+#### 9 § Funktionsstadgebrott
+Funktionsstadgar kan inte brytas mot. De är en del av det enda vallöftet.
 
 ## 3 kap. Föreningsstadgar
 ``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. ```
