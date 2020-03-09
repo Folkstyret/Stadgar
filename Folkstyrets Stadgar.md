@@ -14,7 +14,7 @@ Det första kapitlet innehåller Folkstyrets grundstadgar. De reglerar hur Folks
 #### 2. Funktionsstadgar
 Det andra kaptilet innehåller funktionsstadgarna. De kan vara tillägg till grundstadgarna men de kan inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras när som helst men kan inte träda i kraft förrän efter ett allmänt val. 
 
-``` Det är alltså i praktiken väljarna som i allmänna val godkänner funktionsstadgarna. Syftet med funktionsstadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande eller innevarande mandatperioden. Funktionsstadgarna gör det möjligt att utveckla Folkstyret i takt med tiden, med de nya tekniska möjligheter, kunskaper och yttre föutsättningar som tillkommer. ```
+``` Det är alltså i praktiken väljarna som i allmänna val godkänner funktionsstadgarna. Syftet med funktionsstadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande eller innevarande mandatperioden. Funktionsstadgarna gör det möjligt att utveckla Folkstyret i takt med tiden, med de nya tekniska möjligheter, kunskaper och yttre förutsättningar som tillkommer. ```
 
 #### 3. Föreningsstadgar
 Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga föreningsverksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av funktionsstadgarna. 
