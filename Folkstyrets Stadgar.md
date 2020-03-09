@@ -24,7 +24,7 @@ Det tredje kapitlet innehåller helt vanliga stadgar som styr upp den vanliga f�
 ##### 4. Det enda vallöftet
 **_Folkstyret följer stadgarna._**
 
-Folkstyret utvecklar inte någon egen politik utan är ett verktyg för demos att styra över sig själv. Vallöften är vanligen till för att försäkra väljarna om att man efter valet tänker agera på ett visst sätt i vissa på förhand kända frågor. Eftersom varken väljare eller partier rimligtvis kan känna till vilka frågor som kan dyka upp på agendan under en hel mandatperiod, och Folkstyret är ett demokratiskt verktyg med vilket demos själv kan kanalisera sin politiska makt är just garantin om denna möjlighet och funktion själva vallöftet.
+Folkstyret utvecklar inte någon egen politik utan är ett verktyg för demos att styra över sig själv. Vallöften är vanligen till för att försäkra väljarna om att man efter valet tänker agera på ett visst sätt i vissa på förhand kända frågor. Eftersom varken väljare eller partier rimligtvis kan känna till vilka frågor som kan dyka upp på agendan under en hel mandatperiod, och Folkstyret är ett demokratiskt verktyg med vilket demos själv kan kanalisera sin politiska makt är just garantin om denna möjlighet och funktion det enda vallöftet.
 
 ## 1 kap. Grundstadgar
 
