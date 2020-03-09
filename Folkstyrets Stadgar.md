@@ -1,5 +1,7 @@
 # Folkstyrets stadgar
 
+### Information
+
 Folkstyrets stadgar är uppdelade i tre stycken kapitel.
 
 ``` Kommentarer till förarbetet formateras som denna text. ```
@@ -63,7 +65,9 @@ När Folkstyret är inröstat av väljarna i en beslutande församling, så skic
 Varje gång en person i befolkningen får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också föreslås av vem som helst som tillhör aktuellt demos eller ett medborgarombud.
 
 #### 8 §	Funktionsstadgeändring
-Funktionsstadgeändringar kan göras genom folkmotioner. 
+Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om funktionsstadgeändringar fattas genom att demos tillfrågas på samma sätt som inför en votering. 
+
+``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte med i dessa beslut. ```
 
 ## 3 kap. Föreningsstadgar
 ``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. ```
