@@ -40,7 +40,7 @@ Den som är aktiv i Folkstyret och representerar demos i en beslutande församli
 ``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna. Att medlemmar i demos kan avsätta medborgarombud med en misstroendeförklaring innebär att medborgarombud behöver avhålla sig från oetiskt missbruk av förmåner etc.```
 
 #### 3 § Demokrati
-Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella rättigheter.
+Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella friheter.
 
 #### 3 § Demos
 Demos består av de som är underställda de politiska besluten och som kan göras ansvariga för sina handlingar. 
