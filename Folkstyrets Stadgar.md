@@ -84,6 +84,9 @@ Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om f
 #### 9 § Funktionsstadgebrott
 Funktionsstadgar kan inte brytas mot. De är en del av det enda vallöftet.
 
+#### 10 § Avsättande av medborgarombud
+Förslag om misstroendeförklaringar kan göras genom folkmotioner. Beslut om misstroende fattas genom att demos tillfrågas på samma sätt som inför en votering. 
+
 ## 3 kap. Föreningsstadgar
 ``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. En Folkstyretförening kan vara stor eller liten och den kan ha fysiska möten eller mötas via distanslösningar eller i nätforum. Anpassa föreningsstadgarna så det passar verksamheten.```
 ### Allmänna bestämmelser
