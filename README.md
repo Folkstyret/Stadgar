@@ -3,7 +3,7 @@ Folkstyret är ett demokratiskt parti och i detta repositorium utarbetas och pub
 
 (Du kan hitta mer information om Folkstyret på https://www.folkstyret.se)
 
-Av stadgarna (de finns här: https://github.com/Folkstyret/Stadgar/blob/master/Folkstyrets%20Stadgar.md) framgår hur Folkstyret representerar demos i de beslutande församlingar där Folkstyret valts in av väljarna.
+Av stadgarna ([klicka här för att komma direkt till dem](Folkstyrets%20Stadgar.md)) framgår hur Folkstyret representerar demos i de beslutande församlingar där Folkstyret valts in av väljarna.
 
 Syftet med det demokratiska partiet Folkstyret är att skapa en så praktisk och enkel kanal för medlemmarna i demos som möjligt att använda för politiskt deltagande i alla de territoriella nivåer (Kommun- eller stadsdel, Kommun, Region, Stat, Europeisk Union, Globalt o.s.v) där de ingår och att medlemmarna i demos åsikter i varje fråga ska representeras så bra som det är möjligt då beslut fattas. Genom att fråga representativa urval av demos är Folkstyret ensamma om att kunna erbjuda absolut politisk jämlikhet och fullständig representation.
 
