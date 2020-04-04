@@ -35,9 +35,9 @@ Folkstyret är ett demokratiskt parti. Folkstyret är en ungefärlig översättn
 ``` Av praktiska skäl kan, i undantagsfall, även definitionen "politiskt parti" accepteras eftersom övrigt svenskt regelverk är anpassat av och för politiska partier. Folkstyret är dock till sin funktion mer en aggregerande institution än en integrerande institution och representerar alltid allmänintresset.  ```
 
 #### 2 § Medborgarombud
-Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Ett medborgarombud kan kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grundstadgar, eller funktionsstadgar, mister automatiskt sin rätt att representera Folkstyret som medborgarombud men utesluts inte automatiskt ur sin förening.
+Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Ett medborgarombud kan kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grund- eller funktionsstadgar mister automatiskt sin rätt att representera Folkstyret som medborgarombud men utesluts inte med automatik ur sin förening. Medborgarombud kan också avsättas av medlemmarna i representerat demos genom misstroendeförklaring.
 
-``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna.```
+``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna. Att medlemmar i demos kan avsätta medborgarombud med en misstroendeförklaring innebär att medborgarombud behöver avhålla sig från oetiskt missbruk av förmåner etc.```
 
 #### 3 § Demokrati
 Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella rättigheter.
@@ -58,7 +58,7 @@ Folkstyret har autoveton som innebär att Folkstyret automatiskt avslår försla
 ``` Automatnej har bytt namn till autoveto. Automatnej har givit några intrycket att det lätt går att manipulera utfallet i en omröstning genom att lägga in en negation i formuleringen av frågan och därmed få stöd av ett automatnej. Det kan man alltså inte. Alla förslag som läggs för beslut i en beslutande församling utmanar nämligen alltid det rådande status quo men eftersom uttrycket tydligen är förvirrande så byter det namn. ```
 
 #### 6 § Folkmotioner
-Medborgarombud och medlemmar i demos kan när som helst inkomma med förslag på folkmotioner på eget initiativ. Genom folkmotioner kan även funktionstadgeändringar föreslås.
+Medborgarombud och medlemmar i demos kan när som helst inkomma med förslag på folkmotioner på eget initiativ. Genom folkmotioner kan även funktionstadgeändringar föreslås och misstroendeförklaringar mot medborgarombud väckas.
 
 #### 8 § Grundstadgeändring
 Grundstadgar kan inte ändras eller tas bort. 
@@ -112,7 +112,7 @@ Förening är öppen för alla fysiska personer. Medlem skall följa föreningen
 #### 11 § Utträde
 Medlem som vill utträda ur föreningen, skall skriftligen anmäla detta till styrelsen och anses därmed omedelbart ha lämnat föreningen. Medlem som inte har betalat medlemsavgift senast den 31 december får anses ha begärt sitt utträde ur föreningen. Medlemskapet upphör i sådant fall genom att personen avförs från medlemsförteckningen.
 #### 12 § Uteslutning
-Medlem får inte uteslutas ur föreningen av annan anledning än att denne har försummat att betala av föreningen beslutade avgifter, motarbetat föreningens verksamhet eller ändamål, eller uppenbarligen skadat föreningens intressen. Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts. I beslutet skall skälen härför redovisas samt anges vad medlemmen skall iaktta för överklagande. Beslutet skall inom tre dagar från dagen för beslutet skriftligen meddelas den berörde.
+Medlem får inte uteslutas ur föreningen av annan anledning än att denne har försummat att betala av föreningen beslutade avgifter, motarbetat föreningens verksamhet eller ändamål, uppenbarligen skadat föreningens intressen, eller brutit mot Folkstyrets grund- eller funktionsstadgar. Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts. I beslutet skall skälen härför redovisas samt anges vad medlemmen skall iaktta för överklagande. Beslutet skall inom tre dagar från dagen för beslutet skriftligen meddelas den berörde.
 #### 13 § Medlems rättigheter och skyldigheter 
 Medlem
 - har rätt att delta i sammankomster som anordnas för medlemmarna
