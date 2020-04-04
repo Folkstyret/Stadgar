@@ -66,6 +66,11 @@ Grundstadgar kan inte ändras eller tas bort.
 #### 9 § Grundstadgebrott
 Grundstadgar kan inte brytas mot. De är en del av det enda vallöftet.
 
+#### 10 § Avsättande av medborgarombud
+Förslag om misstroendeförklaringar kan göras genom folkmotioner. Beslut om misstroende fattas genom att demos tillfrågas på samma sätt som inför en votering.
+
+``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om misstroende. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte delaktiga i dessa beslut. ```
+
 ## 2 kap. Funktionsstadgar
 
 #### 1 § Voteringar - Genomförande
@@ -79,13 +84,10 @@ Varje gång en person i ett demos får en fråga om vad den tycker om ett försl
 #### 8 § Funktionsstadgeändring
 Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om funktionsstadgeändringar fattas genom att demos tillfrågas på samma sätt som inför en votering. 
 
-``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte med i dessa beslut. ```
+``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte delaktiga i dessa beslut. ```
 
 #### 9 § Funktionsstadgebrott
 Funktionsstadgar kan inte brytas mot. De är en del av det enda vallöftet.
-
-#### 10 § Avsättande av medborgarombud
-Förslag om misstroendeförklaringar kan göras genom folkmotioner. Beslut om misstroende fattas genom att demos tillfrågas på samma sätt som inför en votering. 
 
 ## 3 kap. Föreningsstadgar
 ``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. En Folkstyretförening kan vara stor eller liten och den kan ha fysiska möten eller mötas via distanslösningar eller i nätforum. Anpassa föreningsstadgarna så det passar verksamheten.```
