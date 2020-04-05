@@ -9,17 +9,17 @@ Folkstyrets stadgar är uppdelade i tre stycken kapitel.
 ##### 1. Grundstadgar
 Det första kapitlet innehåller Folkstyrets grundstadgar. De reglerar principerna för hur Folkstyret representerar demos i en beslutande församling där Folkstyret är invalt. Folkstyrets grundstadgar kan inte ändras eller brytas och de gäller i alla Folkstyretföreningar.
 
-``` Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende. Syftet med grundstadgarna är att väljare ska kunna vara säkra på att Folkstyret alltid kommer att representera den statistiskt normala åsikten i varja fråga på bästa sätt och bädda för deras långsiktiga engagemang i Folkstyret och demokratin. Grundstadgarna ska vara teknikneutrala och reflektera demokratins kärnvärden. ``` 
+``` Om grundstadgarna behöver ändras så behöver ett nytt parti startas med ett annat namn, nya medlemmar och de nya grundstadgarna. Detta nya parti får då på nytt söka väljarnas förtroende. Syftet med grundstadgarna är att väljare ska kunna vara säkra på att Folkstyret alltid kommer att representera den statistiskt normala åsikten i varje fråga på bästa sätt och bädda för deras långsiktiga engagemang i Folkstyret och demokratin. Grundstadgarna ska vara teknikneutrala och reflektera demokratins kärnvärden. ``` 
 
 ##### 2. Funktionsstadgar
-Det andra kaptilet innehåller funktionsstadgarna. De kan vara tillägg till grundstadgarna men de kan inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras fram till en månad innan ett allmänt val och träder i kraft på valdagen och gäller i alla Folkstyretföreningar. 
+Det andra kaptilet innehåller funktionsstadgarna. De reglerar metoderna för hur Folkstyret representerar demos i en beslutande församling där Folkstyret är invalt. De kan vara tillägg till grundstadgarna men de kan inte vara i strid eller konflikt med någon av grundstadgarna. De kan ändras fram till en månad innan ett allmänt val och träder i kraft på valdagen. 
 
-``` Det är alltså i praktiken väljarna som i allmänna val godkänner funktionsstadgarna. Syftet med funktionsstadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande och den innevarande mandatperioden. Funktionsstadgarna gör det möjligt att utveckla Folkstyret i takt med tiden, med nya tekniska möjligheter, kunskaper och yttre förutsättningar som tillkommer. ```
+``` Det är alltså i praktiken väljarna som i allmänna val godkänner funktionsstadgarna. Syftet med funktionsstadgarna är att väljare ska kunna vara säkra på att Folkstyret agerar som överenskommet med väljarna under den kommande och den innevarande mandatperioden samtidigt som de gör det möjligt att utveckla Folkstyret i takt med tiden, med nya tekniska möjligheter, kunskaper och yttre förutsättningar som tillkommer eller finns på olika platser eller territoriella nivåer. Funktionsstadhgarna kan alltså se olika ut i olika Folkstyretföreningar.```
 
 ##### 3. Föreningsstadgar
 Det tredje kapitlet innehåller föreningsstadgar som styr upp den vanliga föreningsverksamheten och dess rutiner. De kan inte vara i strid med någon av grundstadgarna eller någon av funktionsstadgarna. Föreningsstadgarna gäller för respektive Folkstyretförening.
 
-``` Föreningsstadgarna kan ändras för att anpassas till Folkstyretföreningens storlek, territoriella status eller inriktning. ```
+``` Föreningsstadgarna kan ändras för att anpassas till Folkstyretföreningens storlek, territoriella nivå, geografiska plats eller medlemmar. ```
 
 ##### 4. Det enda vallöftet
 **_Folkstyret följer stadgarna._**
@@ -35,29 +35,29 @@ Folkstyret är ett demokratiskt parti. Folkstyret är en ungefärlig översättn
 ``` Av praktiska skäl kan, i mindre högtidliga sammanhang, även definitionen "politiskt parti" accepteras eftersom övrigt svenskt regelverk är anpassat av och för politiska partier. Folkstyret är dock till sin funktion mer en aggregerande institution än en integrerande institution och representerar alltid allmänintresset. Ordet Folkstyret, med sina dubbelriktade syftningar mellan beståndsdelarna "folk" och "styre", fångar också på ett fint sätt själva andemeningen i det som ofta kallas "the Lincoln formula": Ett styre av folket, för folket och genom folket. ```
 
 #### 2 § Medborgarombud
-Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Ett medborgarombud kan kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Det medborgarombud som bryter mot grund- eller funktionsstadgar mister automatiskt sin rätt att representera Folkstyret som medborgarombud men utesluts inte med automatik ur sin förening. Medborgarombud kan också avsättas av medlemmarna i representerat demos genom misstroendeförklaring.
+Den som är aktiv i Folkstyret och representerar demos i en beslutande församling, är bunden av dessa stadgar och kallas i dessa stadgar för medborgarombud. Ett medborgarombud kan kandidera som representant för Folkstyret i allmänna val till beslutande församlingar. Invald i en beslutande församling ska medborgarombudet verka för transparens och medborgarinsyn, om möjligt upplysa andra partiers förtroendevalda om den allmänna opinionen i frågorna som diskuteras, samt medla och finna framkomliga vägar i polariserade frågor. Det medborgarombud som bryter mot grund- eller funktionsstadgar mister automatiskt sin rätt att representera Folkstyret som medborgarombud men utesluts inte med automatik ur sin förening. Medborgarombud kan också avsättas av medlemmarna i representerat demos genom misstroendeförklaring. 
 
 ``` Det här är den repressiva åtgärd som väntar det medborgarombud som låter sig köpas av lobbyister eller som av vilken annan anledning som helst går emot viljan hos demos genom att inte åtfölja grundstadgarna eller de fasta stadgarna. Att medlemmar i demos kan avsätta medborgarombud med en misstroendeförklaring innebär att medborgarombud behöver avhålla sig från oetiskt missbruk av förmåner etc.```
 
 #### 3 § Demokrati
 Demokrati förstås som en process som drivs av deltagande och varande en legitimeringsprincip. Demokrati består av politisk jämlikhet, rättsstatens principer och individuella friheter.
 
-#### 3 § Demos
+#### 4 § Demos
 Demos består av de som är underställda de politiska besluten och som kan göras ansvariga för sina handlingar. 
 
-``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär, för tillfället, att Folkstyret har en vidare och mer inkluderande definition av demos än nuvarande svensk lag. ```
+``` I en praktisk mening består demos av de som är straffmyndiga och folkbokförda i det terriotorium där det politiska beslutet ska gälla. Det här innebär att Folkstyret har en vidare och mer inkluderande definition av demos än nu gällande svensk lag. ```
 
-#### 4 § Voteringar
-Folkstyret tar reda på den statistiskt normala åsikten hos demos om varje politiskt förslag som läggs fram i den beslutande församling där Folkstyret är invalt. Folkstyrets medborgarrepresentanter voterar alla i enighet med det utfallet i den beslutande församlingen. Vid ett statistiskt säkerställt bifall eller avslag voteras så. I annat fall avstår Folkstyrets medborgarombud. Folkstyret representerar på så sätt allmänintresset. Undantag från detta är förslag som automatiskt kommer att avslås med ett autoveto. Det anonymiserade underlaget till Folkstyrets beslut offentliggörs alltid tillsammans med en precis redogörelse för hur undersökningen gått till.
+#### 5 § Voteringar
+Folkstyret tar reda på den statistiskt normala åsikten hos demos om varje politiskt förslag som läggs fram i den beslutande församling där Folkstyret är invalt. Folkstyrets medborgarrepresentanter voterar alla i enighet med det utfallet i den beslutande församlingen. Vid ett statistiskt säkerställt bifall eller avslag voteras så. I annat fall avstår Folkstyrets medborgarombud. Folkstyret representerar på så sätt allmänintresset. Undantag från detta är förslag som automatiskt kommer att avslås med ett autoveto. Det anonymiserade underlaget till Folkstyrets beslut offentliggörs alltid tillsammans med en detaljerad redogörelse för hur undersökningen har gått till.
 
 ```Underlaget offentliggörs så att alla kan bedöma dess legitimitet och så att det kan utgöra en del av demos politiska självkännedom och dess fria opinionsbildning.```
 
-#### 5 § Autoveto
+#### 6 § Autoveto
 Folkstyret har autoveton som innebär att Folkstyret automatiskt avslår förslag som inte godkänns av lagrådet. Det innebär att förslag som är i strid med grundlagen, är diskriminerande, begränsar våra individuella friheter eller inte är kongruent med annan lagstiftning inte kan genomföras med Folkstyrets hjälp. Folkstyret kan alltså inte användas för att rösta bort demokratin. Ett annat autoveto triggas om ett förslag eller en omröstning har manipulerats så att Folkstyret inte har möjlighet att ta fram ett legitimt underlag till omröstningen.
 
 ``` Automatnej har bytt namn till autoveto. Automatnej har givit några intrycket att det lätt går att manipulera utfallet i en omröstning genom att lägga in en negation i formuleringen av frågan och därmed få stöd av ett automatnej. Det kan man alltså inte. Alla förslag som läggs för beslut i en beslutande församling utmanar nämligen alltid det rådande status quo men eftersom uttrycket tydligen är förvirrande så byter det namn. ```
 
-#### 6 § Folkmotioner
+#### 7 § Folkmotioner
 Medborgarombud och medlemmar i demos kan när som helst inkomma med förslag på folkmotioner på eget initiativ. Genom folkmotioner kan även funktionstadgeändringar föreslås och misstroendeförklaringar mot medborgarombud väckas.
 
 #### 8 § Grundstadgeändring
@@ -81,12 +81,12 @@ När Folkstyret är inröstat av väljarna i en beslutande församling, så skic
 #### 2 § Folkmotioner - Genomförande
 Varje gång en person i ett demos får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också läggas på Folkstyrets websida där man också kan se vilka folkmotioner som inkommit hittills och till vilka beslutande församlingar dessa kommer att läggas. Vartefter folkmotionerna utarbetas kan de röstas upp, ner, diskuteras och flaggas i de delar där ett autoveto kan utlösas. Förslag som är resultat av deliberativa övningar presenteras i samma system.
 
-#### 8 § Funktionsstadgeändring
+#### 3 § Funktionsstadgeändring
 Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om funktionsstadgeändringar fattas genom att demos tillfrågas på samma sätt som inför en votering. 
 
 ``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte delaktiga i dessa beslut. ```
 
-#### 9 § Funktionsstadgebrott
+#### 4 § Funktionsstadgebrott
 Funktionsstadgar kan inte brytas mot. De är en del av det enda vallöftet.
 
 ## 3 kap. Föreningsstadgar
