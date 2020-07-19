@@ -78,16 +78,19 @@ När Folkstyret är inröstat av väljarna i en beslutande församling, så skic
 
 ``` I ett beslut på nationell, regional eller kommunal nivå är ett antal ungefär 1000-1500 personer. Om inte ett ja eller nej i en fråga kan utkristalliseras (ett statistiskt säkerställt ja eller nej utom felmarginalen) med det underlaget kommer det ändå inte hjälpa att fråga fler. I ett kommun- eller stadsdelsdelsärende där befolkningsunderlaget är litet och en totalundersökning inte är befogad kan man gå ut med en enkät och fråga personer på som kan styrka att de tillhör demos vad de tycker om förslaget. Självklart skall grundstadga 4 § följas inklusive redovisning av metod.```
 
-#### 2 § Folkmotioner - Genomförande
-Varje gång en person i ett demos får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också läggas på Folkstyrets websida där man också kan se vilka folkmotioner som inkommit hittills och till vilka beslutande församlingar dessa kommer att läggas. Vartefter folkmotionerna utarbetas kan de röstas upp, ner, diskuteras och flaggas i de delar där ett autoveto kan utlösas. Förslag som är resultat av deliberativa övningar presenteras i samma system.
-
-#### 3 § Funktionsstadgeändring
+#### 2 § Funktionsstadgeändring
 Förslag om funktionsstadgeändringar kan göras genom folkmotioner. Beslut om funktionsstadgeändringar fattas genom att demos tillfrågas på samma sätt som inför en votering. 
 
 ``` Formuleringen "inför en votering" betyder att demos själva fattar beslut om funktionsstadgeändringar. De övriga partier som är invalda i den aktuella beslutande församlingen är alltså inte delaktiga i dessa beslut. ```
 
-#### 4 § Funktionsstadgebrott
+#### 3 § Funktionsstadgebrott
 Funktionsstadgar kan inte brytas mot. De är en del av det enda vallöftet.
+
+#### 4 § Folkmotioner - Genomförande
+Varje gång en person i ett demos får en fråga om vad den tycker om ett förslag så får den också svara på om det är något annat den vill lyfta upp på den politiska dagordningen eller om man vill backa något förslag någon annan har lagt. Folkmotioner kan också läggas på Folkstyrets websida där man också kan se vilka folkmotioner som inkommit hittills och till vilka beslutande församlingar dessa kommer att läggas. Vartefter folkmotionerna utarbetas kan de röstas upp, ner, diskuteras och flaggas i de delar där ett autoveto kan utlösas. Förslag som är resultat av deliberativa övningar presenteras i samma system.
+
+#### 5 § Folkremisser
+Ett sätt att påverka politiska beslut är att inkomma med remissvar till Regeringen. En grupp slumpvis utvalda medborgare kan genom sortition och en deliberativ process komma fram till ett svar som liknar det som landets invånare på aggregerad nivå fått svara om de haft tid och möjlighet att sätta sig in i förslaget. I sin enklaste form, till mindre arbeten, skickas remissen ut till ett slumpvis urval och de som vill får läsa igenom remissen och skicka in sitt svar till Folkstyret som räknar samman resultatet och svarar på remissen. I en mer utvecklad form kan man, beroende av tid, budget och komplexitet använda sig av en planeringscell, medborgarjury eller medborgarförsamling.
 
 ## 3 kap. Föreningsstadgar
 ``` Nedan är föreningsstadgar för ideella föreningar enligt standarmall. En Folkstyretförening kan vara stor eller liten och den kan ha fysiska möten eller mötas via distanslösningar eller i nätforum. Anpassa föreningsstadgarna så det passar verksamheten.```
